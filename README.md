@@ -1,6 +1,6 @@
 ## Bugs and Feature Requests
 
-If you want to report a bug or request a feature for [Monti APM](https://montiapm.com) or [Monti Deploy](https://montideploy.com), go to the [issues](https://github.com/monti-apm/issues/issues) page.
+If you want to report a bug or request a feature for [Monti APM](https://montiapm.com), go to the [issues](https://github.com/monti-apm/issues/issues) page.
 
 ## Discussions
 
